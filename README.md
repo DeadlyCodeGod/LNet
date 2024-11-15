@@ -1,2 +1,2 @@
 # LNet
-LNet implementation code.
+LNet implementation code, code is coming soon.
